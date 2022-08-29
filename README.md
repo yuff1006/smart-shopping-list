@@ -6,7 +6,7 @@ This mobile-friendly web application gives users the functionality of creating, 
 
 ![Avocado Open Graph Image](https://s2.loli.net/2022/08/29/1Jl9gXMI38tnpZV.jpg)
 
-## Live Site [Here](https://tcl-46-smart-shopping-list.web.app)
+## Live Site [Here](https://smarting-shopping-list-46.netlify.app)
 
 | 🖥                     | 🔧                                                                                                                                                                                                                                     |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
