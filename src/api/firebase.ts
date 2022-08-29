@@ -14,12 +14,14 @@ import { getFutureDate, getDaysBetweenDates } from '../utils';
 import { calculateEstimate } from '@the-collab-lab/shopping-list-utils/dist/calculateEstimate';
 
 const firebaseConfig = {
-	apiKey: 'AIzaSyCfI_TVGKMzq7CaxBRQZAbqejH713TzGeg',
-	authDomain: 'tcl-46-smart-shopping-list.firebaseapp.com',
-	projectId: 'tcl-46-smart-shopping-list',
-	storageBucket: 'tcl-46-smart-shopping-list.appspot.com',
-	messagingSenderId: '750490697092',
-	appId: '1:750490697092:web:786defaaac8ae2cf73f1d1',
+	apiKey: 'AIzaSyD7SUwu3DIVod5r39u9zs3Q3dXfsrvC54o',
+	authDomain: 'smart-shopping-list-5a099.firebaseapp.com',
+	databaseURL: 'https://smart-shopping-list-5a099-default-rtdb.firebaseio.com',
+	projectId: 'smart-shopping-list-5a099',
+	storageBucket: 'smart-shopping-list-5a099.appspot.com',
+	messagingSenderId: '108040709881',
+	appId: '1:108040709881:web:f1117e4e865af82774a428',
+	measurementId: 'G-J1XHM7ETZC',
 };
 
 const app = initializeApp(firebaseConfig);
